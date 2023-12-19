@@ -5,24 +5,24 @@ const reviews = [
       id: 1,
       name: "Susan Smith",
       estate:"Buruburu",
-      img:"./woman.png" ,
-      text: "I loved the food.",
+      img:"woman.png" ,
+      text: "I loved the nurses.",
     },
 
     {
       id: 2,
       name: "John Doe",
       estate:"Umoja",
-      img:"./man.png" ,
-      text: "Fast delivery time!",
+      img:"man.png" ,
+      text: "Fast consultation time!",
     },
 
     {
       id: 3,
       name: "Mike Davis",
       estate:"south B",
-      img:"./profile.png" ,
-      text: "lorem20",
+      img:"man.png" ,
+      text: "Very good services",
     },
 
   ];
